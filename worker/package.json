@@ -1,0 +1,17 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soumen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.2",
+    "redis": "^2.8.0"
+  }
+}
