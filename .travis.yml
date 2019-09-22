@@ -17,6 +17,6 @@ after_success:
   - docker push spatel07/multi-client
   - docker push spatel07/multi-nginx
   - docker push spatel07/multi-server
-  - docker push spatel07/multi-workder
+  - docker push spatel07/multi-worker
 
  
